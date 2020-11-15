@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 **This is Zheng Li (a.k.a lz1998)**.
 
 
-[![lz1998's github stats](https://github-readme-stats.vercel.app/api?username=2014CAIS01&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![lz1998's github stats](https://github-readme-stats.vercel.app/api?username=lz1998&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **More About Me:**
 
