@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 ## **More About Me:**
 
-[![lz1998's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=lz1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![lz1998's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=lz1998&layout=compact&hide=C)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 Feel free to contact me via: 875543533 at qq dot com.
